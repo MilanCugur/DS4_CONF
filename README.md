@@ -1,6 +1,8 @@
 # Datascience 4.0 - Machine learning preconference course
 
-![](./Conf_4.JPG)
+<p align="center">
+  <img src="./Conf_4.JPG">
+</p>
 
 # About the course
 Course is planned to be held on 17th of September as part of the Datascience 4.0 conference devoted to the field of Data science. Course goal is to introduce the field of Machine learning to participants through a practical approach, but also point participants in the right direction when it comes to the theoretical approach.
@@ -20,6 +22,7 @@ Course aims to introduce pariticipants to the basics of machine learning, to giv
 # Knowledge requirements
 * Basic programming knowledge
 * Basic Python knowledge  
+  
 If you want to bring yourself up to speed with Python, check the following free [video tutorial](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_).
 
 # What we will use
