@@ -12,6 +12,9 @@ The course will be held by Milan Cugurovic, [Faculty of Mathematics](http://www.
 He is interested in various fields of Machine learning both its theoretical and practical side.
 Mathematician at heart, a programmer in practise - machine learning guy!  
 Go right now and check what's happening on [MATF Machine Learning and Applications Group](http://machinelearning.math.rs/)!
+<p align="center">
+  <img src="./ml.JPG">
+</p>
 
 # Abstract
 ## Introduction to Machine Learning algorithms using scikit-learn
