@@ -35,6 +35,7 @@ If you want to bring yourself up to speed with Python, check the following free 
 * Python library: pandas
 * Python library: matplotlib
 * Python library: scikit-learn
+* [keras](https://keras.io/)
 
 # How to install libraries
 ## Windows
